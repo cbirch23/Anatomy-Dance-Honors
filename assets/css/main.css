@@ -70,7 +70,7 @@
 	}
 
 	.container.\37 5\25 {
-		width: 38.25em;
+		width: 44.25em;
 	}
 
 	.container.\35 0\25 {
@@ -94,7 +94,7 @@
 		}
 
 		.container.\37 5\25 {
-			width: 38.25em;
+			width: 44.25em;
 		}
 
 		.container.\35 0\25 {
@@ -120,7 +120,7 @@
 		}
 
 		.container.\37 5\25 {
-			width: 50em;
+			width: 42em;
 		}
 
 		.container.\35 0\25 {
@@ -1899,7 +1899,7 @@
 	}
 
 	header {
-		text-align: center;
+		text-align: left;
 	}
 
 		header p {
